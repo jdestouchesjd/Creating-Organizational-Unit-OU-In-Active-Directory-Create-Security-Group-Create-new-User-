@@ -26,7 +26,7 @@ Windows 11 Professional
 
    4.	Name the organizational unit “HR Department” > check the box protect container from accidental deletion > click on OK
 
-      <img width="1117" height="725" alt="image" src="https://github.com/user-attachments/assets/91e57250-0fd6-4454-9893-5f63d3f93fb6" />
+<img width="1117" height="725" alt="image" src="https://github.com/user-attachments/assets/91e57250-0fd6-4454-9893-5f63d3f93fb6" />
 
       
 5.	Create new user John Doe. Right click on the HR OU department > New > User
